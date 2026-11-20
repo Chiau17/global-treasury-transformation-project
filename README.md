@@ -15,7 +15,7 @@
     1. Reval currently operates as a disconnected standalone system, and the company aims to establish it as the core hub for the Treasury department.
     2. Bank interactions rely heavily on manual bank portals rather than standardized automated connectivity.
     3. ERP-to-TMS integration is not yet unified, and local units rely heavily on manual Excel spreadsheets—making daily liquidity consolidation time-consuming and error-prone.
-  * **Process Integrator Bridging Finance, Treasury, IT & Audit:** Treasury, IT & Audit:** While accounting/finance focuses on book figures and control frameworks (e.g., Segregation of Duties, reconciliation), Treasury focuses on cash liquidity, working capital vs. daily cash flow, risk, and payment execution. A key design principle of this plan is to **streamline processes and automate workflows without adding manual workload to operational units**.
+  * **Process Integrator Bridging Finance, Treasury, IT & Audit: While accounting/finance focuses on book figures and control frameworks (e.g., Segregation of Duties, reconciliation), Treasury focuses on cash liquidity, working capital vs. daily cash flow, risk, and payment execution. A key design principle of this plan is to **streamline processes and automate workflows without adding manual workload to operational units**.
 
 ## 2. Target Architecture & Big Picture (To-Be)
 
